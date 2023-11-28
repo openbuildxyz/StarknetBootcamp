@@ -31,9 +31,9 @@ If you are a non-native English developer, [this chrome extention](https://chrom
 
 
 
-## Bounty Task 
+## Bounty Task
 
-### Task1:  Finish the exercises from [starklings](https://github.com/shramee/starklings-cairo1)  
+### Task1:  Finish the exercises from [starklings](https://github.com/shramee/starklings-cairo1)
 
 Total bounty:  $200 , for the first 20 users. 
 
@@ -59,6 +59,7 @@ How to commit:
 1. [Cairo-by-example](https://cairo-by-example.com/)
 2. [Starknet-by-example](https://starknet-by-example.voyager.online/)
 3. [OpenZeppelin Cairo](https://github.com/OpenZeppelin/cairo-contracts/)
+4. [Reddio Cairo templates](https://github.com/reddio-com/cairo)
 
 
 
