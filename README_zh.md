@@ -56,7 +56,7 @@
 如何提交：
 
 1. 为避免女巫攻击，您需要登录 [OpenBuild 网站](https://openbuild.xyz/) 并填写个人资料。
-2. 完成任务2，可以先学习[本视频](https://www.youtube.com/watch?v=6oSHviHTTOo&list=PLMXIoXErTTYX-ZSxlaYDxsR66l5a39IwA&index=3)。
+2. 完成任务2，可以先学习[视频](https://www.youtube.com/watch?v=6oSHviHTTOo&list=PLMXIoXErTTYX-ZSxlaYDxsR66l5a39IwA&index=3) 和这个[笔记文章](https://learnblockchain.cn/article/7007).
 3. 在 Starknet 交流群中(联系微信：xlbxiong，备注 cairo)， 贴出你的部署合约的地址。
 
 
