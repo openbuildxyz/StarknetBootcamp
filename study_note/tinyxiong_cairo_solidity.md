@@ -1,7 +1,10 @@
- Starknet 是以太坊的二层 ZKRollup 扩容方案 ，和其他兼容EVM 的二层扩容方案不同， Starknet 上开发有自己的模式。
+# Cairo 学习笔记
 
-我们从一个简单的对比角度，方便 Solidity 智能开发者快速理解 Starknet 开发。
 
+
+Starknet 是以太坊的二层 ZKRollup 扩容方案 ，和其他兼容EVM 的二层扩容方案不同， Starknet 上开发有自己的模式。
+
+一个简单的对比角度，方便 Solidity 智能开发者快速理解 Starknet 开发。
 
 
 ## 开发语言 Cairo vs Solidity
@@ -47,16 +50,6 @@ curl --proto '=https' --tlsv1.2 -sSf https://docs.swmansion.com/scarb/install.sh
 ```
 
 
-
-
-
-浏览器：starkscan 、Voyager
-
-
-
-https://github.com/glihm/starknet-basecamp-7/tree/main/demo
-
-https://github.com/starknet-edu/starknet-cairo-101/blob/main/README.zh.md
 
 
 
@@ -138,6 +131,8 @@ mod ownable {
     }
 }
 ```
+
+完整 Github 工程在[这里](https://github.com/xilibi2003/first_cairo) 。
 
 在这段合约代码中使用了一些宏（ `#` 开头）来定义合约、定义存储、定义构成函数及外部函数
 

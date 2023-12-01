@@ -45,6 +45,20 @@ How to commit:
 4. Commit your GitHub exercises url on [Discord channel](https://discord.gg/MxKf4rmQNr) and post your exercises screenshot.
 
 
+### Task2
+
+Based on the [Ownable contract](https://github.com/gianalarcon/Ownable-Starknet/) Deploy 2 smart contracts with different wallets(argent and braavos) on testnet. Transfer ownership of the contract from your argent wallet account to your braavos account. Interact with the dispatcher to call data of  smart contract 2 from smart contract 1.
+
+Total bounty:  $200 , for the first 20 users. 
+
+How to commit:
+
+1. To avoid witch attacks, you need to login [OpenBuild website](https://openbuild.xyz/) and fill out the profile.
+2. finish task2, you can study [this video](https://www.youtube.com/watch?v=6oSHviHTTOo&list=PLMXIoXErTTYX-ZSxlaYDxsR66l5a39IwA&index=3) first.
+3. Commit your contract addresses on [Discord channel](https://discord.gg/MxKf4rmQNr) 。
+
+
+
 
 ## Resources 
 
