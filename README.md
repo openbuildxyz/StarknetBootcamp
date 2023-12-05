@@ -67,6 +67,7 @@ How to commit:
 1. [The Starknet Book](https://book.starknet.io/)
 2. [Starknet Docs](https://docs.starknet.io/documentation/)
 3. [Cairo book](https://book.cairo-lang.org/) / [中文版](https://book.cairo-lang.org/zh-cn/index.html)
+4.  [Hackathon Guide: A to ZK ](https://reddio.notion.site/reddio/Hackathon-Guide-A-to-ZK-fd66f91a555941c7a05d2680bbd6f234)from Reddio
 
 ## Cairo Examples
 
