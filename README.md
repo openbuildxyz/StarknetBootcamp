@@ -70,7 +70,7 @@ Total bounty:  $100 , for the first 10 users.
 
 **How to commit**: 
 
-Finish the task3, Commit your GitHub task url,  contract address and exercises screenshot on [Discord channel](https://discord.gg/MxKf4rmQNr) 
+You must first complete task1 and task2 , then complete the task3.  Follow this [readme](./homework/Readme.md)  to create your dir, commit your code, contract address, and test  screenshot.
 
 
 
@@ -92,7 +92,7 @@ Total bounty:  $100 , for the first 10 users.
 
 **How to commit**: 
 
-Finish the task4, Commit your GitHub task url,  contract address and exercises screenshot on [Discord channel](https://discord.gg/MxKf4rmQNr) 
+You must first complete task3 , then finish the task4,  Follow this [readme](./homework/Readme.md)  to create your dir, commit your code, contract address, and test  screenshot.
 
 
 
