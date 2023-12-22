@@ -44,7 +44,6 @@ How to commit:
 3. finish the exercises , study [this video](https://www.youtube.com/watch?v=ofyhpQYTycs&list=PLMXIoXErTTYX-ZSxlaYDxsR66l5a39IwA&index=2&t=5608s) first.
 4. Commit your GitHub exercises url on [Discord channel](https://discord.gg/MxKf4rmQNr) and post your exercises screenshot.
 
-
 ### Task2
 
 Based on the [Ownable contract](https://github.com/gianalarcon/Ownable-Starknet/) Deploy 2 smart contracts with different wallets(argent and braavos) on testnet. Transfer ownership of the contract from your argent wallet account to your braavos account. Interact with the dispatcher to call data of  smart contract 2 from smart contract 1.
@@ -56,6 +55,44 @@ How to commit:
 1. To avoid witch attacks, you need to login [OpenBuild website](https://openbuild.xyz/) and fill out the profile.
 2. finish task2, you can study [this video](https://www.youtube.com/watch?v=6oSHviHTTOo&list=PLMXIoXErTTYX-ZSxlaYDxsR66l5a39IwA&index=3) first.
 3. Commit your contract addresses on [Discord channel](https://discord.gg/MxKf4rmQNr) 。
+
+
+
+### Task3
+
+1. Based on this [Ownable contract with SnFoundry](https://github.com/gianalarcon/Ownable-contract-snFoundry), you have to enable the tests on the **tests/test_ownable.cairo** file. The current file contains tests that were working with snFoundry version v0.7.0. Your task is to fix these tests using snFoundry version v0.12.0 or v0.13.0. You have to input the command `snforge test` and all tests should pass. Take the [Voting contract](https://github.com/gianalarcon/vote-contract) as a reference, you can also check the snfoundry-book and github repo. 
+
+2. Deploy on testnet and interact with the [Ownable components](https://github.com/gianalarcon/ownable-components) contract
+
+
+
+Total bounty:  $100 , for the first 10 users. 
+
+**How to commit**: 
+
+Finish the task3, Commit your GitHub task url,  contract address and exercises screenshot on [Discord channel](https://discord.gg/MxKf4rmQNr) 
+
+
+
+### Task4
+
+Based on the dojo-starter project, deploy that game using **slot**. You have to follow this [tutorial](https://book.dojoengine.org/tutorial/deploy-using-slot/main.html). At the end you have to provide your RPC endpoint for katana slot and torii slot. The deployment name of your katana and torii slot must be the same as your github username. For example
+
+1. Katana rpc: https://api.cartridge.gg/x/**github-username**/katana
+2. Torii endpoints
+   1. GraphQL: https://api.cartridge.gg/x/**github-username**/torii/graphql
+   2. GRPC: [https://api.cartridge.gg/x/**github-username**/torii/grpc](https://api.cartridge.gg/x/github-username/torii/grpc)
+
+​		You also can check this link to know more about slot
+
+- https://book.dojoengine.org/toolchain/slot/overview.html 
+- https://github.com/cartridge-gg/slot 
+
+Total bounty:  $100 , for the first 10 users. 
+
+**How to commit**: 
+
+Finish the task4, Commit your GitHub task url,  contract address and exercises screenshot on [Discord channel](https://discord.gg/MxKf4rmQNr) 
 
 
 
