@@ -66,8 +66,8 @@
 3. 按照指引完成练习， 可参考[视频](https://www.youtube.com/watch?v=ofyhpQYTycs&list=PLMXIoXErTTYX-ZSxlaYDxsR66l5a39IwA&index=2&t=5608s)。
 4. 在 Starknet 交流群中(加群联系微信：xlbxiong，备注 cairo)， 贴出你的练习库 Github 地址。
 
-
 ### 任务 2
+
 基于 [Ownable contract](https://github.com/gianalarcon/Ownable-Starknet/)，在 testnet 上用不同的钱包（argent 和 braavos）部署 2 个智能合约。将合约所有权从 argent 钱包账户转移到 braavos 账户。与 dispatcher 交互，从智能合约 1 调用智能合约 2 的数据。
 
 总奖金: $200 美元，完成任务的前 20 名用户
@@ -80,7 +80,7 @@
 
 
 
-### Task3
+### 任务 3
 
 1. 基于 [Ownable contract with SnFoundry](https://github.com/gianalarcon/Ownable-contract-snFoundry)， 在 **tests/test_ownable.cairo** 文件上完成测试。当前包含一个老版本的测试，需要升级到 v0.12.0 or v0.13.0并修复错误，所有的测试必须通过 `snforge test` ，你可参考 [Voting contract](https://github.com/gianalarcon/vote-contract) ，也可查看snfoundry-book 。
 
@@ -96,7 +96,7 @@
 
 
 
-### Task4
+### 任务 4
 
 基于dojo-starter项目,  使用 **Slot** 命令部署游戏，可以参考这个 [教程](https://book.dojoengine.org/tutorial/deploy-using-slot/main.html)。 你需要为 katana slot 和  torii slot 提供 RPC 节点 URL， 部署的 katana 和 torii slot 名必须和github 用户一致。例如：
 
