@@ -1,0 +1,3 @@
+export STARKNET_RPC="https://starknet-testnet.public.blastapi.io"
+export STARKNET_ACCOUNT="../../../.wallets/account2.json"
+export STARKNET_KEYSTORE="../../../.wallets/keystore2.json"

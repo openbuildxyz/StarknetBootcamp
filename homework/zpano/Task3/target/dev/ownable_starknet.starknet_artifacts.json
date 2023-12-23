@@ -1,0 +1,1 @@
+{"version":1,"contracts":[{"id":"712gh2ejrqm26","package_name":"ownable_starknet","contract_name":"ownable","artifacts":{"sierra":"ownable_starknet_ownable.contract_class.json","casm":"ownable_starknet_ownable.compiled_contract_class.json"}}]}
