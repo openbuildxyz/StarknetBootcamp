@@ -1,6 +1,7 @@
 ## Task3
 
-[OpenBuild Starknet Bootcamp任务3：Starknet Foundry合约测试代码错误修复及部署和交互测试](./Task3/OpenBuild Starknet Bootcamp任务3：Starknet Foundry合约测试代码错误修复及部署和交互测试.md)
+[OpenBuild Starknet Bootcamp任务3：Starknet Foundry合约测试代码错误修复及部署和交互测试](https://github.com/bityoume/StarknetBootcamp/blob/main/homework/bityoume/Task3/OpenBuild%20Starknet%20Bootcamp%E4%BB%BB%E5%8A%A13%EF%BC%9AStarknet%20Foundry%E5%90%88%E7%BA%A6%E6%B5%8B%E8%AF%95%E4%BB%A3%E7%A0%81%E9%94%99%E8%AF%AF%E4%BF%AE%E5%A4%8D%E5%8F%8A%E9%83%A8%E7%BD%B2%E5%92%8C%E4%BA%A4%E4%BA%92%E6%B5%8B%E8%AF%95.md)
+
 
 | 钱包类型 | 部署钱包地址                                                 | 部署合约地址                                                 | 部署合约代码                                                 |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
