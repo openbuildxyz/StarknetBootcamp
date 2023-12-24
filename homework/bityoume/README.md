@@ -1,6 +1,6 @@
 ## Task3
 
-[任务3：修复Ownable contract with SnFoundry测试文件错误并部署测试网及交互](./Task3/任务3：修复Ownable contract with SnFoundry测试文件错误并部署测试网及交互.md)
+[OpenBuild Starknet Bootcamp任务3：Starknet Foundry合约测试代码错误修复及部署和交互测试](./Task3/OpenBuild Starknet Bootcamp任务3：Starknet Foundry合约测试代码错误修复及部署和交互测试.md)
 
 | 钱包类型 | 部署钱包地址                                                 | 部署合约地址                                                 | 部署合约代码                                                 |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
