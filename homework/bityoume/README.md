@@ -7,3 +7,17 @@
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Argent   | 0x05E51CAF456A394D4ED02c4e0f373d8A162851c492d382F74822b10AaD11300d | 0x064144d7d422e06a5587e3bf6e3dffedee57f2010937a9645aaf7aab76c97105 | [ownable_contract_snfoundry](https://github.com/bityoume/OpenBuildStarknet/tree/main/ownable_contract_snfoundry) |
 | Braavos  | 0x00b05390123e1e3749ae040834342eefd541f96e210b50f4ff6de8e8dd37b08d | 0x01d6c6da546bd75cea9f2c1ecbb2cb8c16fb464515f5fadfbba44fb73c66ed33 | [Ownable components](https://github.com/gianalarcon/ownable-components) |
+
+
+
+## Task4
+
+[OpenBuild Starknet Bootcamp任务4：基于dojo-starter项目，使用Slot命令部署游戏](https://learnblockchain.cn/article/7219)
+
+- Katana rpc: https://api.cartridge.gg/x/bityoume/katana
+
+- Torii 端点
+
+  - GraphQL: https://api.cartridge.gg/x/bityoume/torii/graphql
+
+  - GRPC:  https://api.cartridge.gg/x/bityoume/torii/grpc
