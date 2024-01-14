@@ -1,0 +1,23 @@
+(base) ygg@MacBook-Air-2 Ownable-contract-snFoundry-main % starkli deploy 0x0585f86478c05aab66a1cb29496dfdb84fe8729a170a46f010af95574a1e5d5c 0x047333dacb25b076c21280c2ef4ba76b6f8d14b88892a4cd8c9abf670afc10cf
+Enter keystore password: 
+Deploying class 0x0585f86478c05aab66a1cb29496dfdb84fe8729a170a46f010af95574a1e5d5c with salt 0x071f4320daee49a059c10d0b2bcd2cd03d641ca9d9491e574c8d84282afe382a...
+The contract will be deployed at address 0x07e7a4eb1d63354f67bb88b07556688817b86a85b5048660b3fc93375fc2edd3
+Contract deployment transaction: 0x067f6c991b14546b5897885d6f528276856d904357b8c161e7e59d9c688e8259
+Contract deployed:
+0x07e7a4eb1d63354f67bb88b07556688817b86a85b5048660b3fc93375fc2edd3
+(base) ygg@MacBook-Air-2 Ownable-contract-snFoundry-main % starkl
+i call 0x07e7a4eb1d63354f67bb88b07556688817b86a85b5048660b3fc93375fc2edd3 read_owner
+[
+    "0x047333dacb25b076c21280c2ef4ba76b6f8d14b88892a4cd8c9abf670afc10cf"
+]
+(base) ygg@MacBook-Air-2 Ownable-contract-snFoundry-main % starkli call 0x07e7a4eb1d63354f67bb88b07556688817b86a85b5048660b3fc93375fc2edd3 get_data  
+[
+    "0x0000000000000000000000000000000000000000000000000000000000000001"
+]
+(base) ygg@MacBook-Air-2 Ownable-contract-snFoundry-main % starkli invoke 0x07e7a4eb1d63354f67bb88b07556688817b86a85b5048660b3fc93375fc2edd3 set_data 0x12345
+Enter keystore password: 
+Invoke transaction: 0x0413043072141ceab23402c0363f98cb8e6bf96947f98a16cdcc31e5bec19628
+(base) ygg@MacBook-Air-2 Ownable-contract-snFoundry-main % starkli call 0x07e7a4eb1d63354f67bb88b07556688817b86a85b5048660b3fc93375fc2edd3 get_data 
+[
+    "0x0000000000000000000000000000000000000000000000000000000000012345"
+]
