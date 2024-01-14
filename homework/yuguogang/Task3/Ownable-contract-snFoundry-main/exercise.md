@@ -21,3 +21,17 @@ Invoke transaction: 0x0413043072141ceab23402c0363f98cb8e6bf96947f98a16cdcc31e5be
 [
     "0x0000000000000000000000000000000000000000000000000000000000012345"
 ]
+(base) ygg@MacBook-Air-2 Ownable-contract-snFoundry-main % snforge test
+   Compiling ownable_starknet v0.1.0 (/Users/ygg/vs/StarknetBootcamp/homework/yuguogang/Task3/Ownable-contract-snFoundry-main/Scarb.toml)
+    Finished release target(s) in 2 seconds
+
+
+Collected 4 test(s) from ownable_starknet package
+Running 0 test(s) from src/
+Running 4 test(s) from tests/
+[PASS] tests::test_ownable::test_transfer_ownership, gas: ~13.71
+[PASS] tests::test_ownable::test_transfer_ownership_bad_guy, gas: ~6.2
+[PASS] tests::test_ownable::test_construct_with_admin, gas: ~7.140000000000001
+[PASS] tests::test_ownable::test_data_mock_call_get_data, gas: ~13.32
+Tests: 4 passed, 0 failed, 0 skipped, 0 ignored, 0 filtered out
+(base) ygg@MacBook-Air-2 Ownable-contract-snFoundry-main % 
